@@ -103,5 +103,6 @@ theme: pure
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 
+  type: git
+  repo: git@github.com:tobyforever/tobyforever.github.io.git
+  branch: master
