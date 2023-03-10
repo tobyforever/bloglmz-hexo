@@ -22,7 +22,7 @@ spark可以支持读写hive，从而避免hive执行mapreduce慢的问题。
 
 # How?
 ## spark的数据模型
-截止到目前（202303）， spark最新的版本号是3.3.2
+截止到目前（2023）， spark最新的版本号是3.3.2
 spark的数据模型从旧到新（或者从低级到高级）分别为RDD、DataSet(spark1.6开始)、[DataFrame](https://spark.apache.org/docs/latest/sql-programming-guide.html#dataframes)。
 
 
