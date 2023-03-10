@@ -19,3 +19,6 @@ toc: true
 ## 架构流程图
 系统的流程图如下，
 ![](https://cdn.jsdelivr.net/gh/tobyforever/uploadpic/upload/20230310114354.png)
+
+emqx是erlang做的物联网网关，能方便接入mqtt协议，具有高性能支持高并发的特点。
+[emqx车联网的介绍pdf](https://assets.emqx.com/resources/white-papers/iov-platform-building-from-beginner-to-master.pdf)
