@@ -1,5 +1,5 @@
 ---
-title: 大数据第4课 物联网大数据
+title: 大数据第4课 物联网大数据组件选型
 date: 2023-02-24 20:43:51
 tags: 大数据
 toc: true
@@ -20,7 +20,7 @@ toc: true
 系统的流程图如下，
 ![](https://cdn.jsdelivr.net/gh/tobyforever/uploadpic/upload/20230310160721.png)
 
-emqx是erlang做的物联网网关，能方便接入mqtt协议，具有高性能支持高并发的特点。
+emqx是erlang做的物联网网关，能方便接入mqtt协议，具有高性能支持高并发，系统资源占用少的特点。
 [emqx车联网的介绍pdf](https://assets.emqx.com/resources/white-papers/iov-platform-building-from-beginner-to-master.pdf)
 
 emqx的商业版提供了数据持久化和到webhook、kafka、mysql等多种sink的数据传输（data bridge）功能，开源版中databridge只保留了webhook。可以通过自己写webhook来通过http接口接收emqx的消息再转发到kafka。
