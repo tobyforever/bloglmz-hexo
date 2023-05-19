@@ -1,7 +1,7 @@
 ---
 title: oracle笔记
 date: 2023-04-11 20:43:51
-tags: oracle
+tags: 数据库
 toc: true
 published: true
 ---
