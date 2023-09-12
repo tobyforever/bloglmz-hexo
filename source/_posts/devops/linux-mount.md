@@ -2,7 +2,7 @@
 title: centos挂载数据盘
 date: 2023-04-11 20:45:51
 tags: linux
-toc: true
+toc: false
 published: true
 ---
 

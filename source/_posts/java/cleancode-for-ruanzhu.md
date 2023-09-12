@@ -2,7 +2,7 @@
 title: GPT教你写代码：如何删除java源代码的空行和注释
 date: 2023-04-13 20:46:51
 tags: [java]
-toc: true
+toc: false
 published: true
 ---
 

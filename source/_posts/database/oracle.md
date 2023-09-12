@@ -2,7 +2,7 @@
 title: oracle笔记
 date: 2023-04-11 20:43:51
 tags: 数据库
-toc: true
+toc: false
 published: true
 ---
 

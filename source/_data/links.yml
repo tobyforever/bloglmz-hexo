@@ -1,7 +1,51 @@
+函数图像绘制:
+    link: https://www.linmingzhe.com/blog/2023/08/07/education/function-plot-tool/
+    avatar: https://img2.baidu.com/it/u=2341424743,2997052584&fm=253&fmt=auto&app=138&f=JPEG?w=583&h=500
+    desc: "动手绘制和观察函数图像"
+打字练习:
+    link: https://www.linmingzhe.com/blog/2023/07/20/education/typing-test/
+    avatar: https://dazi.91xjr.com/static/web/images/headPhoto/def-2.1.119.png
+    desc: "边练习打字边练习英语拼写"
+电子电路模拟器:
+    link: http://www.falstad.com/circuit/
+    avatar: https://thumb.1010pic.com/pic7/pages/3103/1644/0329/7ce0414d0ad80c31b4f7bc453abc1dca/A/Image1214.gif
+    desc: "动手画自己的电子电路"
+小花生:
+    link: https://www.xiaohuasheng.cn/levels
+    avatar: https://www.xiaohuasheng.cn/Images/app_logo.png
+    desc: "英语分级阅读书单"
+信奥一本通题解和OJ:
+    link: https://blog.csdn.net/u011815404/article/details/79324003#comments_26126182
+    avatar: https://img-blog.csdnimg.cn/20201014180756930.png?x-oss-process=image/resize,m_fixed,h_64,w_64
+    desc: "信奥一本通题解和OJ"
+CSP题库:
+    link: https://ti.luogu.com.cn/problemset/
+    avatar: 
+    desc: "洛谷上CSP的题库"
+rqcen的高中数理化生讲义:
+    link: https://mp.weixin.qq.com/s/Evd1W4FNWcfvmba2xaVfWA
+    avatar: 
+    desc: "清华基科班大佬的高中数理化生讲义"
+李永乐中学公益课:
+    link: https://mp.weixin.qq.com/s/r-L5FEfx7JuEOxYOtoSkaw
+    avatar: https://baike.baidu.com/pic/%E6%9D%8E%E6%B0%B8%E4%B9%90/1302180/1/30adcbef76094b36acafda38cb9f6bd98d1000e93790?fr=lemma&fromModule=lemma_top-image&ct=single
+    desc: "李永乐老师的中学公益课"
 格致论道:
     link: http://www.self.org.cn/
     avatar: http://www.self.org.cn/images/2020_self_logo.png
     desc: "一个类似TED的科普网站"
+地图书:
+    link: https://www.ditushu.com/
+    avatar: https://media.ditushu.com/public/logo.png
+    desc: "人文社科结构化知识库在线协作"
+全历史:
+    link: https://www.allhistory.com/
+    avatar: https://static.allhistory.com/online/common/img/logo-ah.5721.png
+    desc: "人文历史知识图谱"   
+hackingcpp:
+    link: https://hackingcpp.com/
+    avatar: https://hackingcpp.com/assets/hcpp.svg
+    desc: "极简的c++学习网站"
 华为云AI训练营:
     link: https://developer.huaweicloud.com/signup/bc28b33722da472086ba136804ee8e1a?medium=share_kfzlb&invitation=b0c6ba326d3e4362a391155088ffdd3b
     avatar: https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/HWCdeveloper/navi/PClogonew.svg
@@ -14,12 +58,42 @@
     link: https://juejin.cn/my-course
     avatar: https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg
     desc: "掘金买的课程"
-小花生:
-    link: https://www.xiaohuasheng.cn/levels
-    avatar: https://www.xiaohuasheng.cn/Images/app_logo.png
-    desc: "英语分级阅读书单"
 激流网:
     link: https://jiliuwang.net/archives/category/%e7%83%ad%e7%82%b9
     avatar: http://jiliuwang.net/wp-content/uploads/2016/10/2016100216213782.png
     desc: "历史故事"
-    
+线性代数交互教材:
+    link: https://textbooks.math.gatech.edu/ila/
+    avatar: https://textbooks.math.gatech.edu/ila/static/images/gatech.gif
+    desc: "乔治亚理工大学线性代数交互教材"
+线性代数的艺术:
+    link: https://zhuanlan.zhihu.com/p/587559401
+    avatar: https://pic2.zhimg.com/80/v2-d0fe043f338b19008a15cd7a6dfee24d_1440w.webp
+    desc: "极简的线性代数可视化"
+MIT公开课:
+    link: https://ocw.mit.edu/search/?q=mathematics%20for%20computer%20science
+    avatar: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/6-042js15.jpeg
+    desc: "MIT公开课《计算机科学中的数学：信息与智能时代的必修课》"
+GDELT数据库:
+    link: https://www.gdeltproject.org/
+    avatar: 
+    desc: "1979年至今的全球人类活动事件大数据"
+iGEM生物竞赛:
+    link: https://competition.igem.org/participation/starting-a-team/
+    avatar: 
+    desc: "页面里有参赛项目展演视频、blog、wiki可以学习"
+几何原本讲解视频:
+    link: https://www.youtube.com/@SandyBultena/playlists
+    avatar: 
+    desc: "几何原本讲解视频"
+小奥动画视频:
+    link: https://www.bilibili.com/video/BV18M4y1A7Xh/?p=79&vd_source=bb33ada5ced7817c4c4746122e65a6aa
+    avatar: 
+    desc: "小奥动画视频"   
+AMC刷题amctrivial:
+    link: https://amctrivial.com/
+    avatar: 
+    desc: "AMC题库刷题网站，可以设置难度和题型"
+     
+
+  

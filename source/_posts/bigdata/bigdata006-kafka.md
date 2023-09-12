@@ -1,9 +1,10 @@
 ---
+---
 title: 大数据第6课 kafka的使用
 date: 2023-02-25 20:43:51
 tags: 大数据
-toc: true
-published: false
+toc: false
+published: true
 ---
 
 # What?

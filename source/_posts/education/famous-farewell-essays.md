@@ -2,7 +2,7 @@
 title: 著名的告别演说
 date: 2023-04-13 23:46:51
 tags: [liberal-education]
-toc: true
+toc: false
 published: true
 ---
 

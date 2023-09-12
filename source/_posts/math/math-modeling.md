@@ -2,7 +2,7 @@
 title: 数学建模教程
 date: 2023-04-30 23:46:51
 tags: [数学]
-toc: true
+toc: false
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: 通过nc创建socket发数据给kafka
 date: 2023-04-11 20:45:51
 tags: linux
-toc: true
+toc: false
 published: true
 ---
 # 使用nc实时输入数据
