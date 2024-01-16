@@ -10,6 +10,10 @@
     link: http://www.falstad.com/circuit/
     avatar: https://thumb.1010pic.com/pic7/pages/3103/1644/0329/7ce0414d0ad80c31b4f7bc453abc1dca/A/Image1214.gif
     desc: "动手画自己的电子电路"
+数字电路原理游戏:
+    link: https://nandgame.com/
+    avatar: 
+    desc: "数字电路原理游戏(STEAM版: turing complete)"
 小花生:
     link: https://www.xiaohuasheng.cn/levels
     avatar: https://www.xiaohuasheng.cn/Images/app_logo.png
@@ -94,6 +98,16 @@ AMC刷题amctrivial:
     link: https://amctrivial.com/
     avatar: 
     desc: "AMC题库刷题网站，可以设置难度和题型"
+英语新闻分级阅读news-in-levels:
+    link: https://www.newsinlevels.com/
+    avatar: 
+    desc: "每天一篇英语分级阅读"
+编程语言可视化pythontutor:
+    link: https://pythontutor.com/articles/c-cpp-visualizer.html
+    avatar: 
+    desc: "可视化学习python和C/C++"
+
+    
      
 
   
